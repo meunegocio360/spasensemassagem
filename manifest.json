@@ -1,5 +1,4 @@
 {
- "theme_color": "#FFFFFF",
  "icons": [
   {
    "sizes": "150x150",
@@ -38,8 +37,9 @@
   }
  ],
  "display": "fullscreen",
+ "theme_color": "#FFFFFF",
  "description": "Av. Onze de Junho, 160 - Vila Clementino, São Paulo",
+ "start_url": "index.htm",
  "background_color": "#FFFFFF",
- "name": "Sense Coworking Spa - Tour Virtual 360°",
- "start_url": "index.htm"
+ "name": "Sense Coworking Spa - Tour Virtual 360°"
 }
